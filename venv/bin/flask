@@ -1,4 +1,6 @@
-#!/Users/nishant/PycharmProjects/untitled/venv/bin/python
+#!/bin/sh
+'''exec' "/Users/nishant/PycharmProjects/Setu API Nishant/venv/bin/python" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
